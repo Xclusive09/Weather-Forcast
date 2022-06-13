@@ -1,0 +1,22 @@
+body {
+    background-color: aqua;
+}
+.part{
+    background-color: aquamarine;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+    text-emphasis-color: red;
+    display: flex;
+padding: 10rem;
+border-radius: 15px;
+width: 30%;
+margin-left: 12rem;
+margin-top: 10rem;;
+}
+button {
+    background-color: aqua;
+    border-radius: 5px;
+}
+button:hover {
+    background-color: skyblue;
+}
